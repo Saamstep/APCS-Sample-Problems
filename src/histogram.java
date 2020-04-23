@@ -1,9 +1,8 @@
-package apcs.sample;
 import java.util.*;
 
 // 4/21/2020
 // APCS Period 3B
-public class Main {
+public class histogram {
 
     public static void main(String[] args) {
         Random random = new Random();
